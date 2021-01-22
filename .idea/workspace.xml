@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14501e48-b5e1-45b3-9c0f-2b213fe4348f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1nPwlTMr5JZ2tJ236aodf1f8eIY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pancoWebSite" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14501e48-b5e1-45b3-9c0f-2b213fe4348f" name="Default Changelist" comment="" />
+      <created>1611305185342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611305185342</updated>
+      <workItem from="1611305188488" duration="4958000" />
+      <workItem from="1611313579140" duration="10357000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1675" y="42" key="#Inspections" timestamp="1611313350098">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1675" y="42" key="#Inspections/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1611313350098" />
+    <state x="1779" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611314001893">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1779" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1611314001893" />
+    <state x="1829" y="119" key="FileChooserDialogImpl" timestamp="1611323412706">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1829" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1611323412706" />
+  </component>
+</project>
